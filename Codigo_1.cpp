@@ -2,6 +2,6 @@ Hola mundo ahora te hice una modificacion
 
 int main()
 {
-    /* code */
+//modificando algunos datos desde remoto
     return 0;
 }
